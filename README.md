@@ -13,15 +13,15 @@ A cibersegurança é um dos pilares essenciais na proteção de sistemas, dados 
 
 ## Objetivos
 
-Estudar o funcionamento de ransomwares e keyloggers a partir de implementações simples.
+- Estudar o funcionamento de ransomwares e keyloggers a partir de implementações simples.
 
-Demonstrar como técnicas como criptografia, captura de eventos do teclado e manipulação de arquivos são utilizadas em malwares reais.
+- Demonstrar como técnicas como criptografia, captura de eventos do teclado e manipulação de arquivos são utilizadas em malwares reais.
 
-Desenvolver consciência crítica sobre riscos, vetores de ataque e impactos de códigos maliciosos.
+- Desenvolver consciência crítica sobre riscos, vetores de ataque e impactos de códigos maliciosos.
 
-Exercitar boas práticas de desenvolvimento seguro e ambientes de teste isolados.
+- Exercitar boas práticas de desenvolvimento seguro e ambientes de teste isolados.
 
-Compreender medidas de prevenção e mitigação aplicadas contra esse tipo de ameaça.
+- Compreender medidas de prevenção e mitigação aplicadas contra esse tipo de ameaça.
 
 ---
 
@@ -29,15 +29,15 @@ Compreender medidas de prevenção e mitigação aplicadas contra esse tipo de a
 
 O trabalho foi desenvolvido em ambiente controlado, sem acesso à rede externa e utilizando pastas isoladas. O processo seguiu os seguintes passos:
 
-Estudo teórico inicial sobre ransomwares e keyloggers, analisando suas características e modos de operação.
+- Estudo teórico inicial sobre ransomwares e keyloggers, analisando suas características e modos de operação.
 
-Implementação de um ransomware simples, utilizando criptografia simétrica para codificar arquivos e gerar uma chave de recuperação.
+- Implementação de um ransomware simples, utilizando criptografia simétrica para codificar arquivos e gerar uma chave de recuperação.
 
-Desenvolvimento de um keylogger básico, capaz de registrar teclas pressionadas e armazenar essas informações em arquivo ou envio automatizado.
+- Desenvolvimento de um keylogger básico, capaz de registrar teclas pressionadas e armazenar essas informações em arquivo ou envio automatizado.
 
-Testes restritos, executados apenas em diretórios previamente preparados e sem qualquer risco a sistemas reais.
+- Testes restritos, executados apenas em diretórios previamente preparados e sem qualquer risco a sistemas reais.
 
-Análise dos resultados, identificando vulnerabilidades exploradas e refletindo sobre estratégias de defesa e proteção.
+- Análise dos resultados, identificando vulnerabilidades exploradas e refletindo sobre estratégias de defesa e proteção.
 
 ---
 
